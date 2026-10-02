@@ -3,9 +3,9 @@ import { mergeConfig, defineConfig, configDefaults } from 'vitest/config'
 import viteConfig from './vite.config.ts'
 
 export default mergeConfig(
-  base: 'home',
   viteConfig,
   defineConfig({
+    base: 'home',
     test: {
       environment: 'jsdom',
       exclude: [...configDefaults.exclude, 'e2e/**'],
