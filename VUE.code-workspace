@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "MS Gothic",
+		"editor.fontSize": 13,
+		"editor.tabSize": 4,
+		"editor.formatOnSave": false,
+		"files.autoSave": "afterDelay"
+	}
+}
