@@ -12,7 +12,7 @@ OS環境：Windows11 Home 25H2
 - wsl がインストールされたかどうかを確認
 
 ```shell
-C:\Users\tianyu>wsl --version
+C:\Users\xxxxxx>wsl --version
 
 未安装适用于 Linux 的 Windows 子系统。可通过运行 “wsl.exe --install” 进行安装。
 有关详细信息，请访问 https://aka.ms/wslinstall
